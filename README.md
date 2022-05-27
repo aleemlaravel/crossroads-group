@@ -8,7 +8,13 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 
 Installation:
 
-`npm install`    
+`npm install` 
+
+Set env variables:
+
+`REACT_APP_OWNER` : Github username
+`REACT_APP_REPO` : Repository name
+`REACT_APP_ACCESS_TOKEN` : Github access token
 
 To Start Server:
 
